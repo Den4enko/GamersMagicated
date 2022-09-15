@@ -145,6 +145,11 @@ hash = "4b0fa19ea767d239fad702863b87571bc7ab22981168d9715efe9bb14fe3e5d7"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "3d01384f400c6e27910f7a84f4c9d151798db7fe04c60082ace7942ee6e0c8db"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "119967d6984daefc2dda4e34e9f2fd3edb4ee48abb3edf8ce8edd460e6e680be"
 metafile = true
@@ -195,11 +200,6 @@ hash = "2e25280e924e9a871142a5a95f35016e04f0eba2c86f4b84815d5db009ed19f3"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "6a4cff36e9fd0cf82d0e703ad2289315fcfaa0cc59cd667b8821d4b3ff9d276d"
-metafile = true
-
-[[files]]
 file = "mods/farsight-fabric.pw.toml"
 hash = "41233eadb61c59cd9fb298f21709c79f45c78dc3e03b08c40d0c094c86a821d5"
 metafile = true
@@ -207,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "0eccead743b7a2a4fdd6ba5c58fc109b4a08f360b0d7f66df135501728ae102e"
+metafile = true
+
+[[files]]
+file = "mods/immersiveportals.pw.toml"
+hash = "4c40d405f05b943052074d81850825d234288774ac455be46d2f50338411c86e"
 metafile = true
 
 [[files]]
@@ -252,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
+metafile = true
+
+[[files]]
+file = "mods/malum-quilt.pw.toml"
+hash = "58168b0555e2ff4977a482707eb58fe2c38fd10322ba7a27b00b2866e19a481e"
 metafile = true
 
 [[files]]
@@ -315,6 +325,11 @@ hash = "8c752fa462607344229492d00c45ccd51a209f9338562e2d95b84d88d5cbcf1f"
 metafile = true
 
 [[files]]
+file = "mods/paradise-lost.pw.toml"
+hash = "53d666e5ab53bc32b1785323486c8513dc0ea9bcae7aec1de686232f6dc02dc4"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
 metafile = true
@@ -340,11 +355,6 @@ hash = "198733c09fae4a7c0ea76f0a4c1c9f42cd572a759df023748a839acab8dc75cb"
 metafile = true
 
 [[files]]
-file = "mods/requiem.pw.toml"
-hash = "6fe3fa0e53e6ee42c7d8793c8d4758ff7f31bff2b83d9ce6e416fba611ebe672"
-metafile = true
-
-[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "9a031c4018bdcf4e8d70f5009a3069914b8febf96712222fdd31f8d0ae2451b4"
 metafile = true
@@ -365,11 +375,6 @@ hash = "73259e05c16e2461736d7d7ddc8775ca97c9efd70e6a912dc2280e2bf2c67396"
 metafile = true
 
 [[files]]
-file = "mods/terra.pw.toml"
-hash = "d3df5f333ab62716ee0418ad9654a3bead43f69ccf26dfbcda81d1ab3e6d5606"
-metafile = true
-
-[[files]]
 file = "mods/things.pw.toml"
 hash = "6ee2b19242cfa341ac4377d048890e4abed6b4ac5861199f1f1d78c2a082e1b7"
 metafile = true
@@ -387,11 +392,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "49e25ec166b7824d8f1d7feccbd08a8e904c90b089f6485b05df9173a489bd54"
 metafile = true
 
 [[files]]
