@@ -165,6 +165,10 @@ file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
 
 [[files]]
+file = "icon.ico"
+hash = "77b3c7fb331d6bfbc0084320dd56ec41d5742cd8216ac6e69afd860adb6aedea"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "5fe98822fbe3adef3dcdac8343ca57178cd80b29088f3933a203ec86416ac8c7"
 metafile = true
@@ -197,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a4b435f93d0a70d1d71359024fbf3d4eff8ec653f6f4e90acdfe9c6dce656634"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "68cd9a9231b5198c0b71f123ca56c9fdc819644617a6adcd2274dbe85494ee5e"
 metafile = true
 
 [[files]]
@@ -415,6 +424,11 @@ hash = "fdb9652713b168150149b68eb84e076e5748dbbf357b4d7818a82bbe58ccb0a3"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "354d9fec7677e17d7ef5ada3167601a83b5a4e1d57314728c87134c8769a1d9a"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "8555571dfb1c023b48be6569674634176dcee83d07589296ee7d805e59c0f25f"
 metafile = true
@@ -422,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "43bd658177949fbe857b5a50fc93fd9acf8cdbe04fedba41031e28f6d2b3a3e0"
+metafile = true
+
+[[files]]
+file = "mods/jer-integration.pw.toml"
+hash = "8342d02ffa8c8a5aae481dd7f22475ced3861756a4088e0c9c9a9e78f43cacf2"
 metafile = true
 
 [[files]]
@@ -517,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "4920e9dd0d55e3c5589e7cdcc613e02343f90b0df2519d9237806b2811960c4c"
 metafile = true
 
 [[files]]
@@ -635,13 +659,24 @@ hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
 metafile = true
 
 [[files]]
+file = "mods/too-many-glyphs.pw.toml"
+hash = "fa13f21dd9ee1351610d4fd9077f449fba8bc18e8b2ad5c8827af8793def61f5"
+metafile = true
+
+[[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "af5288cda5a707bf29d9bedf7c196c7d60cc1d0344c9558a614a63dba91fcd0b"
 metafile = true
 
 [[files]]
-file = "pack.ico"
-hash = "7359b1780eb1ecdc21b5566b8302f358f822d46ff57c3d8d2fa258b90d4656ef"
+file = "mods/vampirism-become-a-vampire.pw.toml"
+hash = "f368c4b9c6dbe35c35912bf8d030c2fffb49a36535386ab8af59bf3bd365d4e1"
+metafile = true
+
+[[files]]
+file = "mods/werewolves-become-a-beast.pw.toml"
+hash = "1a1e89df17e904bfc0b0f1e9adf267c98b53d6575b8551a2e6dd690f512edfcf"
+metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
