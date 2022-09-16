@@ -32,7 +32,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'GamersReforged';
+S:customwindowtitle = 'GamersMagicated';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 

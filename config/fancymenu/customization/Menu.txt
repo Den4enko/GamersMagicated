@@ -1,7 +1,7 @@
 type = menu
 
 customization-meta {
-  identifier = net.minecraft.class_442
+  identifier = net.minecraft.client.gui.screens.TitleScreen
   randomgroup = 1
   renderorder = foreground
   randommode = false
@@ -24,6 +24,19 @@ customization {
   x = -196
   action = movebutton
   y = -10
+}
+
+customization {
+  identifier = %id=604346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604346%
+  orientation = mid-centered
+  x = 102
+  action = movebutton
+  y = 14
 }
 
 customization {
@@ -75,6 +88,33 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -5
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = setbuttonlabel
+  value = Моды
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = sethoverlabel
+  label = Тебе точно сюда нужно?
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   action = hidebutton
 }
@@ -82,12 +122,34 @@ customization {
 customization {
   orientation = top-left
   hidden = false
+  x = 186
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 3c643975-577b-4ae1-b4b3-1d146bbd794f1661598563600
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
   x = 2
-  width = 275
+  width = 108
   action = deep_customization_element:title_screen_branding
   actionid = 48add4c2-4b11-442c-8945-3ff9dbe1773f1661598563607
-  y = 388
-  height = 10
+  y = 358
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 283
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 48441a3b-352d-473b-bb8a-b2533bf23d911661598563608
+  y = 279
+  height = 9
 }
 
 customization {
@@ -148,27 +210,12 @@ customization {
   case_mode = normal
   source_mode = local
   line_spacing = 1
-  x = 11
+  x = 13
   width = 45
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 187bedf1-412d-4dc1-942d-f41d439d30f51661600244285
-  y = -99
+  y = -101
   alignment = right
   height = 10
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = -5
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  width = 200
-  action = resizebutton
-  height = 20
 }
 

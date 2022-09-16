@@ -1,13 +1,13 @@
-name = "Architectury API"
-filename = "architectury-4.9.84-fabric.jar"
+name = "Architectury API (Fabric/Forge)"
+filename = "architectury-4.9.84-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/foPbHoIn/architectury-4.9.84-fabric.jar"
 hash-format = "sha1"
-hash = "ee6d6ac3e96e0894537d34ec9ed4b80f1a59e95e"
+hash = "a932a1af3d344144dd95cd202fd5a9478242e01e"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "lhGA9TYQ"
-version = "foPbHoIn"
+[update.curseforge]
+file-id = 3983970
+project-id = 419699

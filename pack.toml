@@ -1,13 +1,16 @@
 name = "GamersMagicated"
 author = "Gamers"
-version = "0.0"
+version = "1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9e654d1ec2839d3730635fa7d2e3ab5c112638911f0c0cfce6de5c73ecb81b48"
+hash = "f0bd0ffe41b64d49e6d2dd2621bf31c99556854246415126656b3c3325b99f47"
 
 [versions]
+forge = "40.1.80"
 minecraft = "1.18.2"
-quilt = "0.17.4"
+
+[options]
+acceptable-game-versions = ["1.18", "1.18.1"]
