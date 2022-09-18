@@ -27,6 +27,15 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=604346%
   action = hidebutton
 }
@@ -48,11 +57,29 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
   orientation = mid-centered
   x = 105
   action = movebutton
   y = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
 }
 
 customization {
@@ -64,11 +91,29 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-centered
   x = 2
   action = movebutton
   y = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
 }
 
 customization {
@@ -80,11 +125,29 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   orientation = mid-centered
   x = -100
   action = movebutton
   y = -55
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
 }
 
 customization {
@@ -112,6 +175,15 @@ customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   action = sethoverlabel
   label = Тебе точно сюда нужно?
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  seconds = 1.0
+  onlyfirsttime = true
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
 }
 
 customization {
@@ -177,26 +249,31 @@ customization {
 customization {
   orientation = bottom-centered
   splash_color = #ffff00
-  hidden = false
+  hidden = true
   x = 0
   width = 60
   splash_rotation = 0
   action = deep_customization_element:title_screen_splash
   actionid = a5be8213-c302-493e-9d7d-4bd27c28ab891661598563608
-  y = -15
+  y = -14
   height = 30
 }
 
 customization {
   vr:showif:guiscale = false
-  path = config/fancymenu/logo.png
   orientation = mid-centered
-  x = -67
+  delayappearanceseconds = 1.0
+  path = config/fancymenu/logo.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -68
   width = 135
   action = addtexture
   actionid = 31574d41-0257-497a-8d2a-bb4c4a72f98d1661599836302
   y = -187
+  delayappearance = true
   vr:value:guiscale = >5
+  delayappearanceeverytime = false
   height = 135
 }
 
@@ -204,18 +281,44 @@ customization {
   orientation = mid-centered
   enable_scrolling = false
   shadow = true
+  delayappearanceseconds = 1.0
   scale = 1.0
   source = config/fancymenu/pack_version.txt
   text_border = 0
   case_mode = normal
+  fadein = true
   source_mode = local
   line_spacing = 1
+  fadeinspeed = 1.0
   x = 13
   width = 45
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 187bedf1-412d-4dc1-942d-f41d439d30f51661600244285
   y = -101
+  delayappearance = true
   alignment = right
+  delayappearanceeverytime = false
   height = 10
+}
+
+customization {
+  orientation = bottom-centered
+  basecolor = #ffff00
+  shadow = true
+  delayappearanceseconds = 1.0
+  rotation = 0.0
+  scale = 1.0
+  refresh = false
+  bouncing = true
+  fadein = true
+  vanilla-like = true
+  fadeinspeed = 1.0
+  x = -28
+  actionid = 8d8ca06b-5794-4765-a1ea-31db90beccc11663418739102
+  action = addsplash
+  y = -28
+  delayappearance = true
+  text = Une baguette!
+  delayappearanceeverytime = false
 }
 

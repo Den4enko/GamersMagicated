@@ -22,7 +22,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "e2b4157b0c80f95c0a417990517c507f5a9d87ee6351563906a179407696fd2d"
+hash = "47fc26393f935299e393c3da768c472058cb126b9e72df13485fd8064917989e"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
@@ -66,7 +66,7 @@ hash = "32aebc4d42a8e17f224b33bfa88eac008bf81a0c50ecaed849797a617e4d15c4"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
-hash = "f3dce4f219c4ebffe7bc5831faaebe771d8298d321005b2f4864448a6be8c806"
+hash = "837ce074e5563b0973898925ea4c0d1a03dbe13d927e8bec3506ea0de7e2c9d7"
 
 [[files]]
 file = "config/fancymenu/customization/menu2.txt"
@@ -86,7 +86,7 @@ hash = "837fa1a0476bf52fb1432777819318b4c24449672e89ce3128f7f3d842d62ac6"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "d51e6ec94058554a84558a5b402ee6ef5fdf5455e35c902feda61cda8752943a"
+hash = "b05e244762b1e472be89a93800cc3ee326743cecb55984bf12813addb8de66d0"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -118,7 +118,7 @@ hash = "59f4deca28c3c3ecfbe469f0dae5be28e3dcf91be650ddd28cbc45b042d49049"
 
 [[files]]
 file = "config/openloader/resources/Tutta's_MCA_Texture.zip"
-hash = "fc96966b4ffe0e936022de7f781243e702f3c046643eb2046a215b74242c04bf"
+hash = "5f2c36b2d1b0c773ba2df43d7ea30807eafc7e016f8895e4ef6d133b2e6f8cf1"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -456,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "4a3143688b72f11d7ce289b6a2a5c89bac561f9a0eca5324d2d08f60b51e252f"
+hash = "8d667948726db0df12a25c12a0df539954ca93fba9e7529d857b8b7c84d9b87d"
 metafile = true
 
 [[files]]
@@ -570,6 +570,11 @@ hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
+metafile = true
+
+[[files]]
 file = "mods/shutup-experimental-settings.pw.toml"
 hash = "89339174b49429b991f3da08eb26ed26511ce1486f8b856f1704e0bdcf12ec13"
 metafile = true
@@ -611,7 +616,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8f9058b0180cce1e40523e95a4558abe9147a1f928e8fba05704deeb29637f78"
+hash = "efe9b90239f900beeb2d53a849f19c8a4132745a5c545c090f5e3d0704bb9198"
 metafile = true
 
 [[files]]
