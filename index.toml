@@ -22,7 +22,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a4146f7b7dbe69ee0dda12318f8f318f5ba5607ff2161b9c6d3f59eacde02152"
+hash = "4bedb7f36d05aae7404b62c0dde8d9acd30d809f71670e1d4db6362918bd7164"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
@@ -86,7 +86,7 @@ hash = "837fa1a0476bf52fb1432777819318b4c24449672e89ce3128f7f3d842d62ac6"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "02ff87c1a9283555b21b92d3cc198ef016772ad1647ccbe7639200e2542c8866"
+hash = "77ac319bfe1979e2d799d9e6987e65feb54f61511c03552ebae990826c208590"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -141,6 +141,10 @@ file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
 
 [[files]]
+file = "defaultconfigs/reblured-client.toml"
+hash = "ac2c701aab4270a751e4203548ed1cd457508679dcbe82862ed1535c0b9380d4"
+
+[[files]]
 file = "icon.ico"
 hash = "77b3c7fb331d6bfbc0084320dd56ec41d5742cd8216ac6e69afd860adb6aedea"
 
@@ -161,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas.pw.toml"
-hash = "58c6cbcae9639bad2729e3270c5a4e18b438f61ceff7e984022e9f2bc3a66102"
+hash = "122608ae023dbb2b3e06580fa45c0e3a3fc187e488d51a4200b9f5dad00693cd"
 metafile = true
 
 [[files]]
@@ -276,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "4ec23d691c9a26f9e9c94d2640351b671cad5c0ca5ef510abaffa91f32d5b44e"
+hash = "c7cf74139cdd427c53405f123e86db5d16d6b1bbaaa647ab8ec4c47c11390f1d"
 metafile = true
 
 [[files]]
@@ -540,6 +544,11 @@ hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
 metafile = true
 
 [[files]]
+file = "mods/reblured.pw.toml"
+hash = "4488b243317794735aa35d3f42e42a6472a4506e69d568049bc3d28e1a6ca538"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
@@ -611,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "efe9b90239f900beeb2d53a849f19c8a4132745a5c545c090f5e3d0704bb9198"
+hash = "5add0bb388fc1e659dcd5f39e2bfd67fced6e7af34b6b1945490a4fafadb3412"
 metafile = true
 
 [[files]]
