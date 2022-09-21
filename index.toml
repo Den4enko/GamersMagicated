@@ -22,7 +22,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "4bedb7f36d05aae7404b62c0dde8d9acd30d809f71670e1d4db6362918bd7164"
+hash = "981299593e628bc6917eafed3e061f36c2d9d3c5d0172bd7e75bd21a0c575d2b"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
@@ -86,7 +86,7 @@ hash = "837fa1a0476bf52fb1432777819318b4c24449672e89ce3128f7f3d842d62ac6"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "77ac319bfe1979e2d799d9e6987e65feb54f61511c03552ebae990826c208590"
+hash = "9c193c604ad7de942961af97b39ff541f2e611fdf0b93a3044e16dfbd808f41b"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -161,11 +161,6 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas.pw.toml"
-hash = "122608ae023dbb2b3e06580fa45c0e3a3fc187e488d51a4200b9f5dad00693cd"
 metafile = true
 
 [[files]]
@@ -319,11 +314,6 @@ hash = "8724c9afd1e767f24c7755a57664399d37444ddf9a97a135f0b1e6c203444d7a"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view.pw.toml"
-hash = "4b9c5e688a6c0f570e7e3e19ff113ef375a677374a4c6b32b71663ef79556553"
-metafile = true
-
-[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "bc723eeaf7ba0f5a42ff4d80707daa47b8733fadac1689e33278e5362e63c1ae"
 metafile = true
@@ -340,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
+hash = "546cf7bd63e02041e8d159ecc5326fde952aaeaf0d8517b5eb5f552a84fcf12a"
 metafile = true
 
 [[files]]
@@ -421,6 +411,11 @@ metafile = true
 [[files]]
 file = "mods/jer-integration.pw.toml"
 hash = "8342d02ffa8c8a5aae481dd7f22475ced3861756a4088e0c9c9a9e78f43cacf2"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "f2491624aa308147b5c78cdbbe9e850430f2479a0bd0529a6b0261d2a082a45c"
 metafile = true
 
 [[files]]
@@ -524,6 +519,11 @@ hash = "4263ce79cb1ff47f095478e42a630ab85974dcebdb578e4a0f7bc5e113ae858b"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "3f4c04ee9c02b635007750e70cf66e3a693142ea20b1cb25be79eb90b7d32abe"
+metafile = true
+
+[[files]]
 file = "mods/project-mmo.pw.toml"
 hash = "2fe090ec7ee2be03de6c353607658ce9a4453ccb6f9639e9046a0869f8d3442d"
 metafile = true
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "5add0bb388fc1e659dcd5f39e2bfd67fced6e7af34b6b1945490a4fafadb3412"
+hash = "d71c01fdea9aa7fc640c24a2366d1d3fd3cfe69a1f81e056ff2e5a37cf4c5bfa"
 metafile = true
 
 [[files]]
