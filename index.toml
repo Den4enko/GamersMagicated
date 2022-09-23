@@ -86,7 +86,7 @@ hash = "837fa1a0476bf52fb1432777819318b4c24449672e89ce3128f7f3d842d62ac6"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "9c193c604ad7de942961af97b39ff541f2e611fdf0b93a3044e16dfbd808f41b"
+hash = "05c64cb6a9476411f5c1be2445cb7e163b575262cf76c1c116348335d4f9686e"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -125,6 +125,10 @@ file = "config/quark-common.toml"
 hash = "3408d6f1d33cdf8755167732e75f6f2793e4bd15c125d4faa5c5950dc8efc39f"
 
 [[files]]
+file = "config/reblured-client.toml"
+hash = "9215c5daf6b4cd466d63bd86b1bfb19e700e63e1e48d08ca24a9bec7ee9ff695"
+
+[[files]]
 file = "config/securitycraft-client.toml"
 hash = "b96d295ea206bd9c79a3be58ec4a0a9859bb55b6c96d7e4b59af0c03727cfa71"
 
@@ -139,10 +143,6 @@ hash = "e95233f172ea58f4262d08472073a97683d5489e38e52b3cde7ac7318db7af5c"
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
-
-[[files]]
-file = "defaultconfigs/reblured-client.toml"
-hash = "ac2c701aab4270a751e4203548ed1cd457508679dcbe82862ed1535c0b9380d4"
 
 [[files]]
 file = "icon.ico"
@@ -516,11 +516,6 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "4263ce79cb1ff47f095478e42a630ab85974dcebdb578e4a0f7bc5e113ae858b"
-metafile = true
-
-[[files]]
-file = "mods/plasmo-voice.pw.toml"
-hash = "3f4c04ee9c02b635007750e70cf66e3a693142ea20b1cb25be79eb90b7d32abe"
 metafile = true
 
 [[files]]
