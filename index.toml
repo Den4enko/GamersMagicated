@@ -6,7 +6,7 @@ hash = "eec2f4757754ee45fe739c14775e38d0e13fe98ba7870aa3cc48ef8d8bd54f73"
 
 [[files]]
 file = "GamersMagicated.png"
-hash = "f09aa07891dc9d77ecadc65140a3e5f5ed07816d7c6fdb521d5c4d33047ee05a"
+hash = "75f4f0b1bfede082f03563105688a74817e1b161da83e69fa41994e4a385b480"
 
 [[files]]
 file = "README.md"
@@ -22,7 +22,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "981299593e628bc6917eafed3e061f36c2d9d3c5d0172bd7e75bd21a0c575d2b"
+hash = "09e977f5cb8f3408653b69d14f29e14ace8e2bacc94fef41e7005af5021e0307"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
@@ -61,32 +61,40 @@ file = "config/fancymenu/config.txt"
 hash = "6520c64c686c68be24a9907b6f58f87404865fee84c37a1cbb2023e530d8a9e9"
 
 [[files]]
+file = "config/fancymenu/custom_locals/pack/en_us.local"
+hash = "cfb0fa924c4045c4e757fb8f4a57e7505058a30c4da42073a508b1dcb8b74c43"
+
+[[files]]
+file = "config/fancymenu/custom_locals/pack/ru_ru.local"
+hash = "2f661df939753b79113354b0decb349ef252460ec618eac367c088070bd8556f"
+
+[[files]]
 file = "config/fancymenu/customizablemenus.txt"
 hash = "32aebc4d42a8e17f224b33bfa88eac008bf81a0c50ecaed849797a617e4d15c4"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
-hash = "837ce074e5563b0973898925ea4c0d1a03dbe13d927e8bec3506ea0de7e2c9d7"
+hash = "ef2907ddbc293307b8365713c0dba59d0c40bcbe509b0f28dcce25486cf84831"
 
 [[files]]
 file = "config/fancymenu/customization/menu2.txt"
-hash = "a0a79e5bfc9580ca1f97f89b0df2f22c5982da49738c9109900e98cf7365025c"
+hash = "e7454ee2e0a09bdb94de9f7d78b0c4b66f8a4f25a92c72b951c621b25fc1826e"
 
 [[files]]
 file = "config/fancymenu/logo.png"
-hash = "e2cc68fad334f4cfd2764a09cc46217c12c47b2bd76827087f8b3e5ebd475f0d"
+hash = "a260f197ed8a8906c41d19d694ef84564e4562e37989ee82e95f5ebfc3e83307"
 
 [[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon16x16.png.png"
-hash = "62b3cd7f3b7c8790215a3ee0ac7b00cec2a93025102719a909151670dd4f48e2"
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "75f4f0b1bfede082f03563105688a74817e1b161da83e69fa41994e4a385b480"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "837fa1a0476bf52fb1432777819318b4c24449672e89ce3128f7f3d842d62ac6"
+hash = "75f4f0b1bfede082f03563105688a74817e1b161da83e69fa41994e4a385b480"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "05c64cb6a9476411f5c1be2445cb7e163b575262cf76c1c116348335d4f9686e"
+hash = "1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -118,7 +126,7 @@ hash = "59f4deca28c3c3ecfbe469f0dae5be28e3dcf91be650ddd28cbc45b042d49049"
 
 [[files]]
 file = "config/openloader/resources/Tutta's_MCA_Texture.zip"
-hash = "5f2c36b2d1b0c773ba2df43d7ea30807eafc7e016f8895e4ef6d133b2e6f8cf1"
+hash = "d225890ad5e7ebb12b7e697af5febc830b04fa462ffe01c0e7f4a8a5530b185f"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -145,8 +153,12 @@ file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
 
 [[files]]
+file = "defaultconfigs/reblured-client.toml"
+hash = "ac2c701aab4270a751e4203548ed1cd457508679dcbe82862ed1535c0b9380d4"
+
+[[files]]
 file = "icon.ico"
-hash = "77b3c7fb331d6bfbc0084320dd56ec41d5742cd8216ac6e69afd860adb6aedea"
+hash = "9e491dcb9d42dc153f603008d7f2efcdc58f98566be77c2231252f52080d1fbe"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -276,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "c7cf74139cdd427c53405f123e86db5d16d6b1bbaaa647ab8ec4c47c11390f1d"
+metafile = true
+
+[[files]]
+file = "mods/crackers-wither-storm-mod.pw.toml"
+hash = "169e7f8b485b4e686ddb7e2f5211afdbc3e3e790c6db3f7a8f9c3d2dd238a53c"
 metafile = true
 
 [[files]]
@@ -455,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "94e1bf3548d1fa4862ebc0799b3df0ec5d4149eef93251cb322a226d602d1443"
+hash = "6c895d0847ad3a9fd6dec79ee1ea7d9d69d0e909823f19ebe23f5b6b3fedf2aa"
 metafile = true
 
 [[files]]
@@ -615,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "d71c01fdea9aa7fc640c24a2366d1d3fd3cfe69a1f81e056ff2e5a37cf4c5bfa"
+hash = "1b4bf442b16d276c1cdb48227f4203c987cf92d329a3624b8e30eaf762229a4a"
 metafile = true
 
 [[files]]

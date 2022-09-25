@@ -168,13 +168,13 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   action = setbuttonlabel
-  value = Моды
+  value = %local:pack.button.mods%
 }
 
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   action = sethoverlabel
-  label = Тебе точно сюда нужно?
+  label = %local:pack.button.mods.motd%
 }
 
 customization {
@@ -204,7 +204,7 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
+  hidden = true
   x = 2
   width = 108
   action = deep_customization_element:title_screen_branding
@@ -290,11 +290,11 @@ customization {
   source_mode = local
   line_spacing = 1
   fadeinspeed = 1.0
-  x = 13
+  x = 14
   width = 45
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 187bedf1-412d-4dc1-942d-f41d439d30f51661600244285
-  y = -101
+  y = -99
   delayappearance = true
   alignment = right
   delayappearanceeverytime = false
@@ -318,7 +318,31 @@ customization {
   action = addsplash
   y = -28
   delayappearance = true
-  text = Une baguette!
+  text = So sweet, like a nice bon bon!
   delayappearanceeverytime = false
+}
+
+customization {
+  orientation = bottom-left
+  enable_scrolling = false
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = %local:pack.forge.version%: %version:forge%
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = 1
+  width = 195
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 3ee2b663-ae4d-40cd-97c8-2b294c674b101664124579128
+  y = -11
+  delayappearance = true
+  alignment = left
+  delayappearanceeverytime = false
+  height = 11
 }
 

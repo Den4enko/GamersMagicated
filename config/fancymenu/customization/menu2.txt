@@ -21,6 +21,12 @@ customization {
 customization {
   identifier = %id=398306%
   action = setbuttonlabel
-  value = Моды
+  value = %local:pack.button.mods%
+}
+
+customization {
+  identifier = %id=398306%
+  action = sethoverlabel
+  label = %local:pack.button.mods.motd2%
 }
 
