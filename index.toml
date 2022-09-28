@@ -22,7 +22,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "09e977f5cb8f3408653b69d14f29e14ace8e2bacc94fef41e7005af5021e0307"
+hash = "5cb57c82e7fe926bce0b9fd91d43b3ad87ad918976fa1f3cbe28320ea4091ceb"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
@@ -94,7 +94,7 @@ hash = "75f4f0b1bfede082f03563105688a74817e1b161da83e69fa41994e4a385b480"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e"
+hash = "9f29a130438b81170b92a42650f9a94291ecad60bd47af2a3886e75f7f728725"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -236,11 +236,6 @@ hash = "f69417f07731012b1e972f60096567d22975841fa275b9b73643ef3da601392a"
 metafile = true
 
 [[files]]
-file = "mods/blue-skies.pw.toml"
-hash = "acee936dece13a20480102ee02af50b5a474dc9db7c1170be230a0bbb157f60c"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "a9f4995175214b99cd6f0aff1658ee992707f781c3ad41dbf8212e8d3ecbf061"
 metafile = true
@@ -277,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "9bca203b4cfeacad61b218be013b61c39ce89f00602345db5e1b732627770d9a"
+hash = "2bfca7a4300b54b98ca96f631c55236def2ab9dd82f18c255cb5d0fa8cde225c"
 metafile = true
 
 [[files]]
@@ -287,17 +282,17 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "c7cf74139cdd427c53405f123e86db5d16d6b1bbaaa647ab8ec4c47c11390f1d"
+hash = "b4a9ab854ff489479d4969861bd51b4a148960c6020a994af4a44835979125ae"
 metafile = true
 
 [[files]]
 file = "mods/crackers-wither-storm-mod.pw.toml"
-hash = "169e7f8b485b4e686ddb7e2f5211afdbc3e3e790c6db3f7a8f9c3d2dd238a53c"
+hash = "e427e1e8ca2900aa91663dffef285ae9cccec3e0e1ca706203a286d7609c7ac9"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
+hash = "49d95a50bd61162db6c7882fc0a2fdac118ead6e7bc592c243d1db29b560db17"
 metafile = true
 
 [[files]]
@@ -318,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "f968d2a3952fc6f09a369be1554baf6e53e046761c836d545f698a9bf6cab8f0"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "04ad88c125584479f0854c74f13f7582a1ce20acf8a89e211cc991bd3780c61d"
 metafile = true
 
 [[files]]
@@ -607,22 +607,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "dc446f4396f890259b9e7e13343a2556dc1b444f07f7bac0aede5287f2b2a67a"
+hash = "97b3e820817836018d3274ab22907491957b2253b6224d3200f8dd27871413dc"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "53a781daf9e319b650de8a33aedec8877addc36aa989eceeef9a00a70dee4233"
+hash = "4ddcc494fda400bc5c521b95427249c959fde0f7c17c68c05b8f239caa436806"
 metafile = true
 
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
-metafile = true
-
-[[files]]
-file = "mods/structure-gel-api.pw.toml"
-hash = "43ee89cb0bc5b569bd804db7af32f128958ef292908014fe7673c1f147fae542"
 metafile = true
 
 [[files]]
@@ -632,7 +627,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1b4bf442b16d276c1cdb48227f4203c987cf92d329a3624b8e30eaf762229a4a"
+hash = "091ab4e96943717607ef7e4355f8c9127e2c014cbfa34894e73ce9a52136410d"
 metafile = true
 
 [[files]]
@@ -643,6 +638,11 @@ metafile = true
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "2bd2e39431ae8fcbbe3a2f4c27e2b95270f9b1bc6f86e32d770d7871d261084f"
+metafile = true
+
+[[files]]
+file = "mods/the-abyss-chapter-ii.pw.toml"
+hash = "1a560693261b7599993f9fbd9a76d55e8d0d1b02fc5bebcf4ada35850aca6699"
 metafile = true
 
 [[files]]
@@ -672,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/werewolves-become-a-beast.pw.toml"
-hash = "1a1e89df17e904bfc0b0f1e9adf267c98b53d6575b8551a2e6dd690f512edfcf"
+hash = "2b70d11fe33381a3be565c89c6998d45dd7f8c8b782f33fec3c11bb3030e32e3"
 metafile = true
 
 [[files]]
