@@ -13,24 +13,16 @@ file = "README.md"
 hash = "d042d46fa2dee63215f0317db9268327f6fffa92978cf1abb7156c184a4a00ef"
 
 [[files]]
-file = "config/Mekanism/additions.toml"
-hash = "2ddcd49dbbc04b096ed9ea043d35d76b7c9c3b15db005dba4234f64db934432a"
-
-[[files]]
 file = "config/ProjectE/client.toml"
 hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "dd844ff1ebbef55dbc30c017d4565daa92f34717a8ad970314d7f9587cf013b1"
+hash = "a806517eea7e8ea56658881eecea71f6a0aee5fd32fcf6b9d00606b45fa98f23"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
 hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
-
-[[files]]
-file = "config/blue_skies-client.toml"
-hash = "071d402fc522364f0bbbe1cce75c96800c5f4bf0236dcf6766a948180d7ed595"
 
 [[files]]
 file = "config/connectivity-common.toml"
@@ -94,15 +86,11 @@ hash = "75f4f0b1bfede082f03563105688a74817e1b161da83e69fa41994e4a385b480"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "c460af6967324cf99156c2018c26970d4e76c42fe52227761cf47ff77da75f39"
+hash = "ec6c168f4411ec8fa9ab8d47dd25954ce53728404fed0e7a9bc7f29dab38c30d"
 
 [[files]]
 file = "config/itemphysic-client.json"
 hash = "a5b3f024fb5c7d5637f488e0f0ea7f50ce86e36ca5247273976a70c2aafe0c8c"
-
-[[files]]
-file = "config/movingelevators-common.toml"
-hash = "f5f5ed44008d779952032b37ac5cc55b98f4d2e3e9ea090d8964803459a1596f"
 
 [[files]]
 file = "config/nounusedchunks.properties"
@@ -133,14 +121,6 @@ file = "config/quark-common.toml"
 hash = "3408d6f1d33cdf8755167732e75f6f2793e4bd15c125d4faa5c5950dc8efc39f"
 
 [[files]]
-file = "config/reblured-client.toml"
-hash = "9215c5daf6b4cd466d63bd86b1bfb19e700e63e1e48d08ca24a9bec7ee9ff695"
-
-[[files]]
-file = "config/securitycraft-client.toml"
-hash = "b96d295ea206bd9c79a3be58ec4a0a9859bb55b6c96d7e4b59af0c03727cfa71"
-
-[[files]]
 file = "config/tips.json"
 hash = "5dea0b434dd6c4f50bea256b32a165c69368e81cd0effdde180c66fa7813d7a8"
 
@@ -154,7 +134,7 @@ hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
 
 [[files]]
 file = "defaultconfigs/reblured-client.toml"
-hash = "ac2c701aab4270a751e4203548ed1cd457508679dcbe82862ed1535c0b9380d4"
+hash = "9215c5daf6b4cd466d63bd86b1bfb19e700e63e1e48d08ca24a9bec7ee9ff695"
 
 [[files]]
 file = "icon.ico"
@@ -502,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-unused-chunks.pw.toml"
-hash = "9871b4fc134949b2f815664cec8b1b823f363580a5927331a3db86c13dd4e880"
+hash = "0835ce8481905cfaa77f853362999b49264318c24c7ccb8e281c5dde3da04029"
 metafile = true
 
 [[files]]
@@ -517,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
+hash = "89f195dd6dda89e74c4cd4857852ac711ff026a8bbb8ad6ce2f8fc8cb7d618ea"
 metafile = true
 
 [[files]]
@@ -556,11 +536,6 @@ hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
 metafile = true
 
 [[files]]
-file = "mods/reblured.pw.toml"
-hash = "4488b243317794735aa35d3f42e42a6472a4506e69d568049bc3d28e1a6ca538"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
@@ -596,8 +571,13 @@ hash = "89339174b49429b991f3da08eb26ed26511ce1486f8b856f1704e0bdcf12ec13"
 metafile = true
 
 [[files]]
+file = "mods/simple-login.pw.toml"
+hash = "3fc346f7c9727ecf7af06dc67274dbe38ba02cae61249f58ed4e962e6313fbd4"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "a324d3d1904f018fd24bb1d03c3b00fa7adb0c920c2f798ab7fa49cb0a6cbaad"
+hash = "8923f87be4613ed04c59f11892adc6aa7380d584683021b63fb2909c5c5f15eb"
 metafile = true
 
 [[files]]
@@ -613,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "4ddcc494fda400bc5c521b95427249c959fde0f7c17c68c05b8f239caa436806"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "1bf0ec860c221529a273f499943e232d9a719cf24d83acc6f82c2e4047752f4d"
 metafile = true
 
 [[files]]
