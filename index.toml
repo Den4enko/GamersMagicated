@@ -22,7 +22,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5cb57c82e7fe926bce0b9fd91d43b3ad87ad918976fa1f3cbe28320ea4091ceb"
+hash = "dd844ff1ebbef55dbc30c017d4565daa92f34717a8ad970314d7f9587cf013b1"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
@@ -94,7 +94,7 @@ hash = "75f4f0b1bfede082f03563105688a74817e1b161da83e69fa41994e4a385b480"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "9f29a130438b81170b92a42650f9a94291ecad60bd47af2a3886e75f7f728725"
+hash = "c460af6967324cf99156c2018c26970d4e76c42fe52227761cf47ff77da75f39"
 
 [[files]]
 file = "config/itemphysic-client.json"
@@ -641,8 +641,8 @@ hash = "2bd2e39431ae8fcbbe3a2f4c27e2b95270f9b1bc6f86e32d770d7871d261084f"
 metafile = true
 
 [[files]]
-file = "mods/the-abyss-chapter-ii.pw.toml"
-hash = "1a560693261b7599993f9fbd9a76d55e8d0d1b02fc5bebcf4ada35850aca6699"
+file = "mods/the-twilight-forest.pw.toml"
+hash = "34ea4985b3c7035cf0b7444a9d019582c83526782c02e1f448e1b837b656d046"
 metafile = true
 
 [[files]]
