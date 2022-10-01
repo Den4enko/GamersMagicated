@@ -5,14 +5,6 @@ file = "CustomSkinLoader/CustomSkinLoader.json"
 hash = "eec2f4757754ee45fe739c14775e38d0e13fe98ba7870aa3cc48ef8d8bd54f73"
 
 [[files]]
-file = "GamersMagicated.png"
-hash = "75f4f0b1bfede082f03563105688a74817e1b161da83e69fa41994e4a385b480"
-
-[[files]]
-file = "README.md"
-hash = "d042d46fa2dee63215f0317db9268327f6fffa92978cf1abb7156c184a4a00ef"
-
-[[files]]
 file = "config/ProjectE/client.toml"
 hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
@@ -34,7 +26,7 @@ hash = "57e54ba2fc5fed6544842876f9e63e732e280f4cadad732b08aa4a3928559f22"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "cad827910f91929dc962730c9141a935caad6c6e24f1287106517a69d2a12915"
+hash = "e7306a728044ec288fa7ec7487bd2ac066e470dcef4810b0b78bcd4ed8fa2d82"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -131,10 +123,6 @@ hash = "e95233f172ea58f4262d08472073a97683d5489e38e52b3cde7ac7318db7af5c"
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
-
-[[files]]
-file = "defaultconfigs/reblured-client.toml"
-hash = "9215c5daf6b4cd466d63bd86b1bfb19e700e63e1e48d08ca24a9bec7ee9ff695"
 
 [[files]]
 file = "icon.ico"
