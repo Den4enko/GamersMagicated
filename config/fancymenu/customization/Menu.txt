@@ -303,7 +303,7 @@ customization {
 
 customization {
   orientation = bottom-centered
-  basecolor = #ffff00
+  basecolor = #33ACFF
   shadow = true
   delayappearanceseconds = 1.0
   rotation = 0.0
@@ -318,7 +318,7 @@ customization {
   action = addsplash
   y = -28
   delayappearance = true
-  text = So sweet, like a nice bon bon!
+  text = 12 herbs and spices!
   delayappearanceeverytime = false
 }
 
@@ -339,7 +339,7 @@ customization {
   width = 195
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = 3ee2b663-ae4d-40cd-97c8-2b294c674b101664124579128
-  y = -11
+  y = -10
   delayappearance = true
   alignment = left
   delayappearanceeverytime = false
