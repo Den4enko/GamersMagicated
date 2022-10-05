@@ -1183,7 +1183,7 @@
 [mobs]
 	Wraith = true
 	Toretoise = true
-	Stonelings = true
+	Stonelings = false
 	Shiba = true
 	Frogs = true
 	Foxhound = true

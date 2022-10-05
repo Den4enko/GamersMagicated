@@ -98,6 +98,10 @@ hash = "4b8b58f3057383f791d964452eff4b3d53ce964edd2eb3ad4bb63b5a0c96eefb"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/GamersMagicated Resources/assets/simplelogin/lang/ru_ru.json"
+hash = "25348f68e68ae40fb64a3b7d230967b031d8802645ac6759061fa7f7a174e5fb"
+
+[[files]]
 file = "config/openloader/resources/GamersMagicated Resources/assets/tipsmod/lang/ru_ru.json"
 hash = "fca6bc6971763f96522f080d7a681beeeb16bf31c316f4f34d9fa17571681859"
 
@@ -123,7 +127,7 @@ hash = "d225890ad5e7ebb12b7e697af5febc830b04fa462ffe01c0e7f4a8a5530b185f"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "3408d6f1d33cdf8755167732e75f6f2793e4bd15c125d4faa5c5950dc8efc39f"
+hash = "94e78cb8c6b66471e8e9a4967e157a313addababb86204cd459943c5487a82be"
 
 [[files]]
 file = "config/tips.json"
@@ -149,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/aiot-botania.pw.toml"
 hash = "6d49662d2265bf2803f406aaaf4589b71becf5ea081f06a7bef20acd5abba2bf"
-metafile = true
-
-[[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
 
 [[files]]
@@ -247,11 +246,6 @@ hash = "50033122cf61e35c245ff0e675f58dcfbd08e1594cd94ab09a4b8717c007e5ae"
 metafile = true
 
 [[files]]
-file = "mods/citadel.pw.toml"
-hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
-metafile = true
-
-[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "ad069dc41f99352ef262bcd674bfdabf526a8202333f673a9c94893458fc2da4"
 metafile = true
@@ -274,11 +268,6 @@ metafile = true
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "82d3dcb1273586c4a34f70a12112121b11f5dada37be3c6df72194fbd2707169"
-metafile = true
-
-[[files]]
-file = "mods/crackers-wither-storm-mod.pw.toml"
-hash = "e427e1e8ca2900aa91663dffef285ae9cccec3e0e1ca706203a286d7609c7ac9"
 metafile = true
 
 [[files]]
@@ -418,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f2491624aa308147b5c78cdbbe9e850430f2479a0bd0529a6b0261d2a082a45c"
+hash = "1223fcb6791f20fe08a03b5b988a658b429d00ac5c73bbff1cd2ed80db5cf489"
 metafile = true
 
 [[files]]
@@ -519,11 +508,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
-metafile = true
-
-[[files]]
-file = "mods/radium-reforged.pw.toml"
-hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
 metafile = true
 
 [[files]]
