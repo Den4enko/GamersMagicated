@@ -66,11 +66,11 @@ hash = "a260f197ed8a8906c41d19d694ef84564e4562e37989ee82e95f5ebfc3e83307"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "54160b0e70e35a88b2a6b152ba39b3646a23b09f3c8ddf7d60108114bd4e2781"
+hash = "040ec2679453ee8d486d2d3e426b936cc5b126dfb90b0859e704e9bb79101d9e"
 
 [[files]]
 file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "c21448c9483c527dc5df0709519437e8b402dc68e2fbaad6d7da9fb692a89bdf"
+hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
@@ -90,11 +90,16 @@ hash = "3b37a924d1449690c334aad426d34942421e75cd4656c3424a3538972c343430"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
-hash = "c46a5efcebe881c0c01ee04c1da4a1d4e18589c18088c901d48e0749348cd0eb"
+hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+
+[[files]]
+file = "config/openloader/data/repurposed-structures-better-dungeons-datapack.pw.toml"
+hash = "4b8b58f3057383f791d964452eff4b3d53ce964edd2eb3ad4bb63b5a0c96eefb"
+metafile = true
 
 [[files]]
 file = "config/openloader/resources/GamersMagicated Resources/assets/tipsmod/lang/ru_ru.json"
-hash = "b501c2412fb11e8f9a76f4edb2e8fdf72d402c7ed601d5c3144e39f69742fb75"
+hash = "fca6bc6971763f96522f080d7a681beeeb16bf31c316f4f34d9fa17571681859"
 
 [[files]]
 file = "config/openloader/resources/GamersMagicated Resources/pack.mcmeta"
@@ -134,7 +139,7 @@ hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
 
 [[files]]
 file = "icon.ico"
-hash = "9e491dcb9d42dc153f603008d7f2efcdc58f98566be77c2231252f52080d1fbe"
+hash = "5fff08f5d761bb355a55ec16c88a9a9761f3a3b75609d060f9f49dc3d435fbc4"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -364,11 +369,6 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
-metafile = true
-
-[[files]]
-file = "mods/forbidden-arcanus.pw.toml"
-hash = "a1043471f97c43e1f70ba9217208233495924ffc83e2b84652a433c3bae3f854"
 metafile = true
 
 [[files]]
@@ -632,11 +632,6 @@ hash = "fa13f21dd9ee1351610d4fd9077f449fba8bc18e8b2ad5c8827af8793def61f5"
 metafile = true
 
 [[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "af5288cda5a707bf29d9bedf7c196c7d60cc1d0344c9558a614a63dba91fcd0b"
-metafile = true
-
-[[files]]
 file = "mods/vampirism-become-a-vampire.pw.toml"
 hash = "5f3554298a7533fb74748f10182ab45935f15e510deede4c9c5ec505400dc9e7"
 metafile = true
@@ -649,6 +644,26 @@ metafile = true
 [[files]]
 file = "mods/werewolves-become-a-beast.pw.toml"
 hash = "2b70d11fe33381a3be565c89c6998d45dd7f8c8b782f33fec3c11bb3030e32e3"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "b83f8905d9f0b6c63347c384e5c3189bb431df0f4ecf80649eef668f584da654"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "1b7cd65a70f699874738e98bf2300b4406a295bcb17760d48876db19abf50c5a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "799ba57de8c96266d2bec8f18ea749721394e1fdb8b4e95d90ce66a1f87cd3e1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "2eae47e79517a349e5c76ab4228254d1cbebcdaeb32ee1ee69026b888caaf970"
 metafile = true
 
 [[files]]
