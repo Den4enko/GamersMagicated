@@ -17,6 +17,10 @@ file = "config/bettermodsbutton-client.toml"
 hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
 
 [[files]]
+file = "config/blue_skies-client.toml"
+hash = "071d402fc522364f0bbbe1cce75c96800c5f4bf0236dcf6766a948180d7ed595"
+
+[[files]]
 file = "config/connectivity-common.toml"
 hash = "1473a798ffec65c01e76ff07f57482d74713b9b816722630d3286e6506c507f5"
 
@@ -94,7 +98,7 @@ hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
 file = "config/openloader/data/repurposed-structures-better-dungeons-datapack.pw.toml"
-hash = "4b8b58f3057383f791d964452eff4b3d53ce964edd2eb3ad4bb63b5a0c96eefb"
+hash = "e33602eeae50447d004c33c2ecbe8b9c6f9fd7a0b63b4d82ae94818f6e8172aa"
 metafile = true
 
 [[files]]
@@ -147,7 +151,7 @@ hash = "5fff08f5d761bb355a55ec16c88a9a9761f3a3b75609d060f9f49dc3d435fbc4"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "5fe98822fbe3adef3dcdac8343ca57178cd80b29088f3933a203ec86416ac8c7"
+hash = "3941ea702dceed8ea0d775f34c1aa7266bb39087748f1afb52052b743ae388c3"
 metafile = true
 
 [[files]]
@@ -157,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
+hash = "01c2d9dcc9dfafd7c8dd1c80583e79d3bdbbc1c6e00ca368a25d2440adb81402"
 metafile = true
 
 [[files]]
@@ -213,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/blockui.pw.toml"
 hash = "f69417f07731012b1e972f60096567d22975841fa275b9b73643ef3da601392a"
+metafile = true
+
+[[files]]
+file = "mods/blue-skies.pw.toml"
+hash = "acee936dece13a20480102ee02af50b5a474dc9db7c1170be230a0bbb157f60c"
 metafile = true
 
 [[files]]
@@ -332,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
-hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
+hash = "1a3346fde6ccc13e64a4baceb24fd271657964b83c09a00526e55180653a9e09"
 metafile = true
 
 [[files]]
@@ -372,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "91e9d7ec42e5f3b961b60e8a50546ab207b48821dbe0a1467694922c72b337c8"
+hash = "4a9d9f199b313c8d3a87817e3a75bd17f4e0da75d2a392e9341f8ae0b5d8f281"
 metafile = true
 
 [[files]]
@@ -451,6 +460,11 @@ hash = "1398754e34ea789a233b03914c6ea0d589e77fadbe76ee6ac4bcf60a55b46308"
 metafile = true
 
 [[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "9525fc05737eb667f80eff044fb158a2c580600d8bf251dee9296977ca46cac4"
+metafile = true
+
+[[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
 metafile = true
@@ -487,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "4920e9dd0d55e3c5589e7cdcc613e02343f90b0df2519d9237806b2811960c4c"
+hash = "cc1d390dc74d40c66f848abe21ff8566ced9f253de3bb83034c7fca3f44a88fd"
 metafile = true
 
 [[files]]
@@ -512,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.pw.toml"
-hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
+hash = "beb52caa87baf1e572a5df7a4339c637d0baa0477a54c614b51f69454652f3b7"
 metafile = true
 
 [[files]]
@@ -562,17 +576,22 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4ddcc494fda400bc5c521b95427249c959fde0f7c17c68c05b8f239caa436806"
+hash = "049155c61d63db52fb79434338dca225fea504328c9013cc68b324280a8efea5"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "1bf0ec860c221529a273f499943e232d9a719cf24d83acc6f82c2e4047752f4d"
+hash = "5d6a99735f076cf8cd6cc80164f4460aa7bcc720363a57d9772cd150defbf4f7"
 metafile = true
 
 [[files]]
 file = "mods/starlight-forge.pw.toml"
-hash = "cf0274e0db473a80ea8d8442362d3e7e76639018504b9ff37fa61aa6044b8a60"
+hash = "54c75491338b09fd7ec57fe5a2e5cd89d6891ee46d069fbd94722f3869a68c38"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "809dfff943976dd9e8c11721ddcdcdf3130e0f9b3ae67bf98089f3cb5e056222"
 metafile = true
 
 [[files]]
@@ -607,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/too-fast.pw.toml"
-hash = "9f2bbaaa6ccb1479af4f71f1e8f1447a75dd957a3071a43de2d368b12f0ac26d"
+hash = "0e15ac6d04517e3cfc732345d95ca5fbd0c4b14839b2fa7fc45fc77701acfbbe"
 metafile = true
 
 [[files]]
@@ -632,22 +651,22 @@ metafile = true
 
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
-hash = "b83f8905d9f0b6c63347c384e5c3189bb431df0f4ecf80649eef668f584da654"
+hash = "cf9385faa62c14250e4a54a18c98e6ff0ba3ed5da3662f5ad3d737d67241645a"
 metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "1b7cd65a70f699874738e98bf2300b4406a295bcb17760d48876db19abf50c5a"
+hash = "a8d777dd8eeba2fb410c6a73a9467bc86714a9b9e16469c8a5b635a8e45494c2"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "799ba57de8c96266d2bec8f18ea749721394e1fdb8b4e95d90ce66a1f87cd3e1"
+hash = "72ac74bd92b8faa2a6ebff91b89cb54da1aec730c004b9045e8cbb056fdf5907"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
-hash = "2eae47e79517a349e5c76ab4228254d1cbebcdaeb32ee1ee69026b888caaf970"
+hash = "2311ff9f62b8c31a856d2f02c82ff8d8f5f63a8cf4f86020b720ba9c28e28e3d"
 metafile = true
 
 [[files]]
