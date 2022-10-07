@@ -1,6 +1,6 @@
 name = "JourneyMap"
 filename = "journeymap-1.18.2-5.9.0beta2-forge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

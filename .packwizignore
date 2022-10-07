@@ -3,7 +3,9 @@
 # See https://git-scm.com/docs/gitignore
 
 
-# Exclude Git metadata
+# Exclude files
 .git/**
 .gitattributes
 .gitignore
+README.md
+GamersMagicated.png
