@@ -53,7 +53,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = -30
+  y = -39
 }
 
 customization {
@@ -70,7 +70,7 @@ customization {
   orientation = mid-centered
   x = 105
   action = movebutton
-  y = 20
+  y = 11
 }
 
 customization {
@@ -85,9 +85,9 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   orientation = mid-centered
-  x = -100
+  x = -101
   action = movebutton
-  y = 20
+  y = 11
 }
 
 customization {
@@ -104,7 +104,7 @@ customization {
   orientation = mid-centered
   x = 2
   action = movebutton
-  y = 20
+  y = 11
 }
 
 customization {
@@ -119,9 +119,9 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = mid-centered
-  x = -125
+  x = -126
   action = movebutton
-  y = 20
+  y = 11
 }
 
 customization {
@@ -131,6 +131,11 @@ customization {
   fadein = true
   fadeinspeed = 1.0
   action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
 }
 
 customization {
@@ -155,7 +160,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = -5
+  y = -14
 }
 
 customization {
@@ -194,7 +199,7 @@ customization {
 customization {
   orientation = top-left
   hidden = false
-  x = 186
+  x = 293
   width = 268
   action = deep_customization_element:title_screen_forge_top
   actionid = 3c643975-577b-4ae1-b4b3-1d146bbd794f1661598563600
@@ -318,7 +323,7 @@ customization {
   action = addsplash
   y = -28
   delayappearance = true
-  text = 12 herbs and spices!
+  text = Classy!
   delayappearanceeverytime = false
 }
 
