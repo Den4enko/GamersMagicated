@@ -1,12 +1,12 @@
 name = "GamersMagicated"
 author = "Gamers"
-version = "1.7"
+version = "1.7.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bc1fb4f7c0d451ea75ac35d2247f4254224b62c0ee7c2417795bf11bc0474f8c"
+hash = "7b9cdffb2ad43d1b3eb3589ed18d650d801c6a7f43af13e4f3ad60464dedcc44"
 
 [versions]
 forge = "40.1.80"
