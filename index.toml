@@ -10,7 +10,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "22688cf7120980c679a48c189fb7aea495309b5bcdb3f04b299a4ee3e4c1ebb0"
+hash = "5984e6fd7d23bc5667d3904f584275243528011dc441538e725830afa7f4d7a1"
 
 [[files]]
 file = "config/bettermodsbutton-client.toml"
@@ -78,7 +78,7 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "12cc1e14b3ecb7567a4b44b553b8202d61cec222b5b69cfb1e856125b8b01b44"
+hash = "a97b042d7bd59d92a46e8ab17f7dff7326067c74b938e6f6daabf1768932330d"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "0baa50b28cde066737d8ad22068d91bf2a4bc65b684095c823e8f4ba5609c516"
+hash = "094f6e0dd171a6f06f23369e96f5a0295063c63aef8a7c91e56120ac81ae315c"
 metafile = true
 
 [[files]]
@@ -390,8 +390,8 @@ hash = "52c76dca73ede428d7d515279a5d22847312a8d3abc055494aec60e1e56a712f"
 metafile = true
 
 [[files]]
-file = "mods/itemphysic.pw.toml"
-hash = "fdb9652713b168150149b68eb84e076e5748dbbf357b4d7818a82bbe58ccb0a3"
+file = "mods/itemphysic-lite.pw.toml"
+hash = "a008aad5852aebcb1a1c1cf26ed4045010947080a4f879df4a2b3b1c8a33a400"
 metafile = true
 
 [[files]]
@@ -457,11 +457,6 @@ metafile = true
 [[files]]
 file = "mods/mod-name-tooltip.pw.toml"
 hash = "1398754e34ea789a233b03914c6ea0d589e77fadbe76ee6ac4bcf60a55b46308"
-metafile = true
-
-[[files]]
-file = "mods/mowzies-mobs.pw.toml"
-hash = "9525fc05737eb667f80eff044fb158a2c580600d8bf251dee9296977ca46cac4"
 metafile = true
 
 [[files]]
@@ -601,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "c8d6ac16ff47c053ebb891980fcbc82db71cad6d042cf144e4d6dcd2bed9ecde"
+hash = "a68a5726da80e435f599778f833b5ea1e2853feb7048666460658c52e7e8d378"
 metafile = true
 
 [[files]]
