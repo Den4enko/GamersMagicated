@@ -62,7 +62,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
-hash = "274b2d282c7bb800c2b0476be618796f00110ea5602cb11f4c75a66e27fc9159"
+hash = "4a4e5301175eb18a5d5467d29e310c9454fafd108f48b673ea8ec2ef6d3c9f87"
 
 [[files]]
 file = "config/fancymenu/logo.png"
@@ -78,7 +78,7 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "18ba3cd396b304c3bf6ebd743e5adbd9b9b5b2a42f553e7f74e0bcfb5495a21f"
+hash = "12cc1e14b3ecb7567a4b44b553b8202d61cec222b5b69cfb1e856125b8b01b44"
 
 [[files]]
 file = "config/forge-client.toml"
