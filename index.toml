@@ -10,7 +10,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "6646965ff911ad23e8e132958e3866ce989a883fa28f4aa1f7c637f6ef2cb3d9"
+hash = "91375f706a4df742d27ca557d00a63ae3426109bf537d95e8171eae60293eb48"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -74,7 +74,7 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "eca06fdd26e513a7b8510c86602285041a916de5491de13373d94fe0d7e04737"
+hash = "aa672d37ec3c3f8002f2a87bba68fd3c2281f1935020cc0e2840276a9de14d78"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -88,6 +88,10 @@ hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 file = "config/openloader/data/repurposed-structures-better-dungeons-datapack.pw.toml"
 hash = "e33602eeae50447d004c33c2ecbe8b9c6f9fd7a0b63b4d82ae94818f6e8172aa"
 metafile = true
+
+[[files]]
+file = "config/openloader/resources/GamersMagicated Resources/assets/brewinandchewin/lang/ru_ru.json"
+hash = "6f0e90558c87c08964564d610a27ae034cdc95e9d818a347b6d96fb0ffb1b4bd"
 
 [[files]]
 file = "config/openloader/resources/GamersMagicated Resources/assets/simplelogin/lang/ru_ru.json"
@@ -434,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "6c895d0847ad3a9fd6dec79ee1ea7d9d69d0e909823f19ebe23f5b6b3fedf2aa"
+hash = "539a611369e1c8d26c421015f443b06b6e9435094dd793ff69e94d4fa8bb9c94"
 metafile = true
 
 [[files]]
