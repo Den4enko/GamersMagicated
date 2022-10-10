@@ -10,11 +10,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "5984e6fd7d23bc5667d3904f584275243528011dc441538e725830afa7f4d7a1"
-
-[[files]]
-file = "config/bettermodsbutton-client.toml"
-hash = "c3a94737d9bc1aa90830993920154b4c0feb19e65016bbd8dd58d909c24d0b72"
+hash = "6646965ff911ad23e8e132958e3866ce989a883fa28f4aa1f7c637f6ef2cb3d9"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -78,19 +74,11 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "a97b042d7bd59d92a46e8ab17f7dff7326067c74b938e6f6daabf1768932330d"
+hash = "eca06fdd26e513a7b8510c86602285041a916de5491de13373d94fe0d7e04737"
 
 [[files]]
 file = "config/forge-client.toml"
 hash = "a7c8e3756baa0003dd4ba52d742b7a27dd9751ce319066e181f71ff0875af1ca"
-
-[[files]]
-file = "config/itemphysic-client.json"
-hash = "a5b3f024fb5c7d5637f488e0f0ea7f50ce86e36ca5247273976a70c2aafe0c8c"
-
-[[files]]
-file = "config/nounusedchunks.properties"
-hash = "3b37a924d1449690c334aad426d34942421e75cd4656c3424a3538972c343430"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -235,6 +223,11 @@ hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "8aa8cf66f38711e70abb448f0b467095cef3be6608b4305c8c0971eee86f394f"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
@@ -305,11 +298,6 @@ hash = "f968d2a3952fc6f09a369be1554baf6e53e046761c836d545f698a9bf6cab8f0"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "04ad88c125584479f0854c74f13f7582a1ce20acf8a89e211cc991bd3780c61d"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "c8969b5a833ea2093f4e810e78360f050c653503d31851a6fa573258f57986e0"
 metafile = true
@@ -346,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "bbb6db946ba2b70b5cf40b58adc73cc8dcb93e5a7c905395186f01e6cb724221"
+hash = "62c51ec334583e56c4d8435479ae550e47baff0f35a77b0586c508d0fd05018c"
 metafile = true
 
 [[files]]
@@ -376,7 +364,7 @@ metafile = true
 
 [[files]]
 file = "mods/gateways-to-eterrnity.pw.toml"
-hash = "a2fb153883c29bceda6abc4d9fb92f7066d4b127665534062122eb424f711fcb"
+hash = "a7f2735fe8a7b20b8a75c38d6c0f3216ceb7a49665865908241fe0655e8169e4"
 metafile = true
 
 [[files]]
