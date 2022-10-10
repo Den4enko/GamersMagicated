@@ -223,6 +223,11 @@ hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "8aa8cf66f38711e70abb448f0b467095cef3be6608b4305c8c0971eee86f394f"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
@@ -274,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "0baa50b28cde066737d8ad22068d91bf2a4bc65b684095c823e8f4ba5609c516"
+hash = "094f6e0dd171a6f06f23369e96f5a0295063c63aef8a7c91e56120ac81ae315c"
 metafile = true
 
 [[files]]
@@ -300,11 +305,6 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "8724c9afd1e767f24c7755a57664399d37444ddf9a97a135f0b1e6c203444d7a"
-metafile = true
-
-[[files]]
-file = "mods/drink-beer-forge.pw.toml"
-hash = "32de69bbbd990de34526edcc8fee7c41e842d14d7c3ad3edda8dcb8db4698222"
 metafile = true
 
 [[files]]
