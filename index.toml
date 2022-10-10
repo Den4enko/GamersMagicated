@@ -74,7 +74,7 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "eca06fdd26e513a7b8510c86602285041a916de5491de13373d94fe0d7e04737"
+hash = "b6150cfd60718dd0816591cf9a6c7f3db4461d05c125ceb14d75d095aaad882a"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -88,6 +88,10 @@ hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 file = "config/openloader/data/repurposed-structures-better-dungeons-datapack.pw.toml"
 hash = "e33602eeae50447d004c33c2ecbe8b9c6f9fd7a0b63b4d82ae94818f6e8172aa"
 metafile = true
+
+[[files]]
+file = "config/openloader/resources/GamersMagicated Resources/assets/brewinandchewin/lang/ru_ru.json"
+hash = "6f0e90558c87c08964564d610a27ae034cdc95e9d818a347b6d96fb0ffb1b4bd"
 
 [[files]]
 file = "config/openloader/resources/GamersMagicated Resources/assets/simplelogin/lang/ru_ru.json"
