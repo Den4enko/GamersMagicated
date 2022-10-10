@@ -1,0 +1,13 @@
+name = "Drink Beer (Forge)"
+filename = "drinkbeer-v2.3.5 for 1.18.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ebbdc9a805d57bc4aace88c4247750b22c6beb10"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3571682
+project-id = 534161
