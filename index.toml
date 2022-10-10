@@ -10,7 +10,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "6646965ff911ad23e8e132958e3866ce989a883fa28f4aa1f7c637f6ef2cb3d9"
+hash = "91375f706a4df742d27ca557d00a63ae3426109bf537d95e8171eae60293eb48"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -18,7 +18,7 @@ hash = "071d402fc522364f0bbbe1cce75c96800c5f4bf0236dcf6766a948180d7ed595"
 
 [[files]]
 file = "config/connectivity-common.toml"
-hash = "1473a798ffec65c01e76ff07f57482d74713b9b816722630d3286e6506c507f5"
+hash = "d61c354e28e5eaa26428f4c5e375d60ebc3b4bf5141eaee02911317e010083e1"
 
 [[files]]
 file = "config/create-client.toml"
@@ -74,7 +74,7 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "185df658c7ac93e80c8650a56a4b3c99baf4b65f7c9c63e1004ee3ae189204fa"
+hash = "aa672d37ec3c3f8002f2a87bba68fd3c2281f1935020cc0e2840276a9de14d78"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -247,11 +247,6 @@ hash = "1e09653f0241c715d9da6ebb677e09b7943385a58f31af10b77e6c61e5e3cf25"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "50033122cf61e35c245ff0e675f58dcfbd08e1594cd94ab09a4b8717c007e5ae"
-metafile = true
-
-[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "ad069dc41f99352ef262bcd674bfdabf526a8202333f673a9c94893458fc2da4"
 metafile = true
@@ -413,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "1223fcb6791f20fe08a03b5b988a658b429d00ac5c73bbff1cd2ed80db5cf489"
+hash = "f2491624aa308147b5c78cdbbe9e850430f2479a0bd0529a6b0261d2a082a45c"
 metafile = true
 
 [[files]]
@@ -443,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "6c895d0847ad3a9fd6dec79ee1ea7d9d69d0e909823f19ebe23f5b6b3fedf2aa"
+hash = "539a611369e1c8d26c421015f443b06b6e9435094dd793ff69e94d4fa8bb9c94"
 metafile = true
 
 [[files]]
@@ -579,11 +574,6 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "54c75491338b09fd7ec57fe5a2e5cd89d6891ee46d069fbd94722f3869a68c38"
-metafile = true
-
-[[files]]
-file = "mods/structure-gel-api.pw.toml"
-hash = "809dfff943976dd9e8c11721ddcdcdf3130e0f9b3ae67bf98089f3cb5e056222"
 metafile = true
 
 [[files]]
