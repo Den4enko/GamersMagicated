@@ -90,6 +90,10 @@ hash = "e33602eeae50447d004c33c2ecbe8b9c6f9fd7a0b63b4d82ae94818f6e8172aa"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/GamersMagicated Resources/assets/brewinandchewin/lang/ru_ru.json"
+hash = "98e0d049c10c636fb972f3ff98eb02f29c726d161c72262d0e767dcb1dc33b67"
+
+[[files]]
 file = "config/openloader/resources/GamersMagicated Resources/assets/simplelogin/lang/ru_ru.json"
 hash = "25348f68e68ae40fb64a3b7d230967b031d8802645ac6759061fa7f7a174e5fb"
 
