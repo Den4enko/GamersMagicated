@@ -337,11 +337,6 @@ hash = "1a3346fde6ccc13e64a4baceb24fd271657964b83c09a00526e55180653a9e09"
 metafile = true
 
 [[files]]
-file = "mods/fastload.pw.toml"
-hash = "62c51ec334583e56c4d8435479ae550e47baff0f35a77b0586c508d0fd05018c"
-metafile = true
-
-[[files]]
 file = "mods/fastsuite.pw.toml"
 hash = "aabf921df6c6895e3703f0159992521a413fb18e0b75b2f5da7bccc62ffb9194"
 metafile = true
@@ -574,6 +569,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "54c75491338b09fd7ec57fe5a2e5cd89d6891ee46d069fbd94722f3869a68c38"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "809dfff943976dd9e8c11721ddcdcdf3130e0f9b3ae67bf98089f3cb5e056222"
 metafile = true
 
 [[files]]
