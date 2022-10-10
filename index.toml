@@ -74,7 +74,7 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "aa672d37ec3c3f8002f2a87bba68fd3c2281f1935020cc0e2840276a9de14d78"
+hash = "6b56de731bba7d2a340b35e1f8639e880663c2192541e4ab81895bf0e1f11798"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/GamersMagicated Resources/assets/brewinandchewin/lang/ru_ru.json"
-hash = "98e0d049c10c636fb972f3ff98eb02f29c726d161c72262d0e767dcb1dc33b67"
+hash = "044dcc7bb600daa422ac47f62032e6bc93f930f391745427fae3c7866dd0a4b6"
 
 [[files]]
 file = "config/openloader/resources/GamersMagicated Resources/assets/simplelogin/lang/ru_ru.json"
@@ -106,16 +106,8 @@ file = "config/openloader/resources/GamersMagicated Resources/pack.mcmeta"
 hash = "6a6ebac7a4b043497eae05aec062495abebba7fff3456db9f0b3a844ad46b5a0"
 
 [[files]]
-file = "config/openloader/resources/RU_UK/assets/minecraft/lang/ru_ru.json"
-hash = "f89949390139a6ec84f7a90505a04e9bfc821aba478cdd21bcc0b7bc7fc37b97"
-
-[[files]]
-file = "config/openloader/resources/RU_UK/pack.mcmeta"
-hash = "eb07dc443c7768cff2642ef2d43b45643a2aee1385604f3f22470c0b5b8e5b24"
-
-[[files]]
-file = "config/openloader/resources/RU_UK/pack.png"
-hash = "59f4deca28c3c3ecfbe469f0dae5be28e3dcf91be650ddd28cbc45b042d49049"
+file = "config/openloader/resources/RU_UK.zip"
+hash = "4835893bfb9233070e18e67fc936f27a127bb0eaf226f0e709642ae712abcd3b"
 
 [[files]]
 file = "config/openloader/resources/Tutta's_MCA_Texture.zip"
@@ -132,6 +124,10 @@ hash = "5dea0b434dd6c4f50bea256b32a165c69368e81cd0effdde180c66fa7813d7a8"
 [[files]]
 file = "config/vampirism-common.toml"
 hash = "e95233f172ea58f4262d08472073a97683d5489e38e52b3cde7ac7318db7af5c"
+
+[[files]]
+file = "defaultconfigs/dynamic_lights_reforged.toml"
+hash = "f6147b74ba0d4f0da7154703623a690f90afceb39bea3217f76e45e7ed08eed4"
 
 [[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
