@@ -74,7 +74,7 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "6b56de731bba7d2a340b35e1f8639e880663c2192541e4ab81895bf0e1f11798"
+hash = "34d597db43ca53b2fd72ccbdd1af7a0fe238c2c0b8321dad8f43a1613143fc62"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -136,6 +136,14 @@ hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
 [[files]]
 file = "icon.ico"
 hash = "5fff08f5d761bb355a55ec16c88a9a9761f3a3b75609d060f9f49dc3d435fbc4"
+
+[[files]]
+file = "mods/XaerosWorldMap_1.28.0_Forge_1.18.2.jar"
+hash = "10129751f39e988386426b123769a7fdb747e3aefc98d38e23e49235238e0629"
+
+[[files]]
+file = "mods/Xaeros_Minimap_22.15.1_Forge_1.18.2.jar"
+hash = "2ea6e26196715d1bfb383b8338ab173d84fb6ae8d870fa7761280cf35559a7d6"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -395,11 +403,6 @@ metafile = true
 [[files]]
 file = "mods/jer-integration.pw.toml"
 hash = "8342d02ffa8c8a5aae481dd7f22475ced3861756a4088e0c9c9a9e78f43cacf2"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "f2491624aa308147b5c78cdbbe9e850430f2479a0bd0529a6b0261d2a082a45c"
 metafile = true
 
 [[files]]
