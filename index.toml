@@ -74,7 +74,7 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "cd84b52f86059d3a7d19e3ebccb1831e787346c2260bfc77f7a69485c0224bbb"
+hash = "34d597db43ca53b2fd72ccbdd1af7a0fe238c2c0b8321dad8f43a1613143fc62"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -136,6 +136,14 @@ hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
 [[files]]
 file = "icon.ico"
 hash = "5fff08f5d761bb355a55ec16c88a9a9761f3a3b75609d060f9f49dc3d435fbc4"
+
+[[files]]
+file = "mods/XaerosWorldMap_1.28.0_Forge_1.18.2.jar"
+hash = "10129751f39e988386426b123769a7fdb747e3aefc98d38e23e49235238e0629"
+
+[[files]]
+file = "mods/Xaeros_Minimap_22.15.1_Forge_1.18.2.jar"
+hash = "2ea6e26196715d1bfb383b8338ab173d84fb6ae8d870fa7761280cf35559a7d6"
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
@@ -409,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "f82ec2191c82952608b6a738b0eb0b3ea2ecc81e6fc6ac47be6b366807b4af5d"
+hash = "439ad025cefd111c1fd54229173ef81c9d4d97882915dd3197400c474ad763c6"
 metafile = true
 
 [[files]]
@@ -509,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "2f18c42ee016430436278ff89e09cdfd6a8ca9928b90be9dca0954704c888952"
+hash = "23f8e7273ed94a07a172e3a5f89d3488dd1ca9ee6d04598814054f96b0db6cf0"
 metafile = true
 
 [[files]]
@@ -625,16 +633,6 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "cf9385faa62c14250e4a54a18c98e6ff0ba3ed5da3662f5ad3d737d67241645a"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "f281a9018686dd1da551d04a0e75dbf9b97ca209a32438ec9623c1db402c18f9"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "2f3f53ce82ac7618318bdce1cb372c352c68bac5ac2042764e81fed281707228"
 metafile = true
 
 [[files]]
