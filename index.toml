@@ -10,7 +10,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "2ee57bd1a732038c67302e8a3b06963005b43aa7e03e89cf6ca12929f3d1c0f3"
+hash = "b9532afe8942ad31c3c817d74c05732a8c4a9341c3a38c87530cb18244003bb9"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -74,7 +74,7 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "b096c134b668c19b902dc12806b50b7bace827339f59964104da678d6490a227"
+hash = "fe55dc99032aef5fec86387d326e2b5357bea070bfed7beb420a5bfd280485de"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -394,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "67b68b5c87506bda89a941743cc71f6dbfacf883aae82f2cc87da78e100cdace"
+hash = "05485e1432e59641ab99fd56355fcc79d373d607a94891b97247c02d1a51fa12"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
-hash = "89f195dd6dda89e74c4cd4857852ac711ff026a8bbb8ad6ce2f8fc8cb7d618ea"
+hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
 metafile = true
 
 [[files]]
