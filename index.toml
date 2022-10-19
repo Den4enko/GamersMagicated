@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CustomSkinLoader/CustomSkinLoader.json"
-hash = "eec2f4757754ee45fe739c14775e38d0e13fe98ba7870aa3cc48ef8d8bd54f73"
+hash = "99b69334ce4cfe6119aa3cc6e45ba5aa720a13912d9ba230f9236e9e9602c7f8"
 
 [[files]]
 file = "config/ProjectE/client.toml"
@@ -10,7 +10,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "91375f706a4df742d27ca557d00a63ae3426109bf537d95e8171eae60293eb48"
+hash = "2ee57bd1a732038c67302e8a3b06963005b43aa7e03e89cf6ca12929f3d1c0f3"
 
 [[files]]
 file = "config/blue_skies-client.toml"
@@ -74,7 +74,7 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "34d597db43ca53b2fd72ccbdd1af7a0fe238c2c0b8321dad8f43a1613143fc62"
+hash = "b096c134b668c19b902dc12806b50b7bace827339f59964104da678d6490a227"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -138,14 +138,6 @@ file = "icon.ico"
 hash = "5fff08f5d761bb355a55ec16c88a9a9761f3a3b75609d060f9f49dc3d435fbc4"
 
 [[files]]
-file = "mods/XaerosWorldMap_1.28.0_Forge_1.18.2.jar"
-hash = "10129751f39e988386426b123769a7fdb747e3aefc98d38e23e49235238e0629"
-
-[[files]]
-file = "mods/Xaeros_Minimap_22.15.1_Forge_1.18.2.jar"
-hash = "2ea6e26196715d1bfb383b8338ab173d84fb6ae8d870fa7761280cf35559a7d6"
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "3941ea702dceed8ea0d775f34c1aa7266bb39087748f1afb52052b743ae388c3"
 metafile = true
@@ -162,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
-hash = "d279ed85d80892f6ea267a01ce72f2e7368ca148f7246ece0f40867c3f441dc1"
+hash = "674f329a1741c458bc3a464546cc3cf9eeaf103f8f8a1f042ce1052c785ef2a2"
 metafile = true
 
 [[files]]
@@ -187,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "4935a09a71f0032aa6a98618f0a7632ac1a3db30586cccda3a4c1a8994b0e52e"
+hash = "4e852c56007b6e30c60e33c84a76210bf67a4122dbc3541c9a0ab633d02b3864"
 metafile = true
 
 [[files]]
@@ -292,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/customskinloader.pw.toml"
-hash = "32c41c8d20ff0ccc10b85fb3b699ae1c3ed7b1a725306f8851de400019704315"
+hash = "4059c488496b06794c5ff8073d8952e0a242a001a3eb320a5c83e4e4b30fa95b"
 metafile = true
 
 [[files]]
@@ -321,13 +313,18 @@ hash = "bc723eeaf7ba0f5a42ff4d80707daa47b8733fadac1689e33278e5362e63c1ae"
 metafile = true
 
 [[files]]
+file = "mods/ender-mail.pw.toml"
+hash = "34fecd1b999d0f5a1f68ecef1a2314f2bc2beec9ca66a1f036afe8a7d61b421d"
+metafile = true
+
+[[files]]
 file = "mods/enigmatic-legacy.pw.toml"
 hash = "8dd459bb85438919715bf3f0f3a2ea99e747fbfe3152f8723c17a08d5d41c419"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "a5c7b5d56e00f3bbaf5e44de55978b76d2066f6c5f76accfa51737b6940c61d0"
+hash = "e53f184214f50e7efbc005421d7e0864af65d0f629b58de0ee22bcc62b6764eb"
 metafile = true
 
 [[files]]
@@ -372,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4a9d9f199b313c8d3a87817e3a75bd17f4e0da75d2a392e9341f8ae0b5d8f281"
+hash = "6115473fb64f32e7d16771312f0d9da227547dd1088b785f2942cb94ab6ac336"
 metafile = true
 
 [[files]]
@@ -397,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "43bd658177949fbe857b5a50fc93fd9acf8cdbe04fedba41031e28f6d2b3a3e0"
+hash = "67b68b5c87506bda89a941743cc71f6dbfacf883aae82f2cc87da78e100cdace"
 metafile = true
 
 [[files]]
@@ -417,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "439ad025cefd111c1fd54229173ef81c9d4d97882915dd3197400c474ad763c6"
+hash = "3e41f4dd83b01ccc37cc712ea07550a6c017badabdc1fb21ce329e01dcb15e58"
 metafile = true
 
 [[files]]
@@ -487,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "4263ce79cb1ff47f095478e42a630ab85974dcebdb578e4a0f7bc5e113ae858b"
+hash = "8ba8c89d32276e29fc443a99b9654064b7d18270ba8b9c46bcbb66ff773da918"
 metafile = true
 
 [[files]]
@@ -512,12 +509,12 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "544ba3794c58422e55c3888dbb6651c60ebc0c7f58a64a36fd683fbe1da6b7a7"
+hash = "913c35b4c637676451e4dae6ef7a44e8b3c31b7c4012a42afcfd6871864c31e5"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "23f8e7273ed94a07a172e3a5f89d3488dd1ca9ee6d04598814054f96b0db6cf0"
+hash = "2f18c42ee016430436278ff89e09cdfd6a8ca9928b90be9dca0954704c888952"
 metafile = true
 
 [[files]]
@@ -547,7 +544,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "4a8e384093c595b157704dfc38ad91eacc07798291dd7e619e04bf55c20b6e70"
+hash = "d6874f78491a6e89c5f25bd6356469080160dd39d4032e8262947f95ae4729d0"
 metafile = true
 
 [[files]]
@@ -582,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "a68a5726da80e435f599778f833b5ea1e2853feb7048666460658c52e7e8d378"
+hash = "609bb57552ed6fee1627a93027768ada10a3d29876efdb3b8a42a1ac5313dbe3"
 metafile = true
 
 [[files]]
@@ -636,8 +633,18 @@ hash = "cf9385faa62c14250e4a54a18c98e6ff0ba3ed5da3662f5ad3d737d67241645a"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "9cdc3f55736ca05fa011be07c4891057cab7472612d3236709a0424f1b3d856d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "b07a402d385d3e7b1709b57f3d2f95f1e7ce6f4c86f4deb0ade3261b5d98ea94"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "a8d777dd8eeba2fb410c6a73a9467bc86714a9b9e16469c8a5b635a8e45494c2"
+hash = "f611a58f12aee3d1d09c127bbaae3da73782bce443a3b6be8f436507cc2890be"
 metafile = true
 
 [[files]]
