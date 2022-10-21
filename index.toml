@@ -74,7 +74,7 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "fe55dc99032aef5fec86387d326e2b5357bea070bfed7beb420a5bfd280485de"
+hash = "81e62885999295491168b41f6fdc13e94cd503c56b991054bb1a2411f8c7465f"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -240,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "1e09653f0241c715d9da6ebb677e09b7943385a58f31af10b77e6c61e5e3cf25"
+metafile = true
+
+[[files]]
+file = "mods/chunkpregenerator.pw.toml"
+hash = "7893880e2c4731964b9f2535fd817046610764633464fa12869c87228a5ebbca"
 metafile = true
 
 [[files]]
