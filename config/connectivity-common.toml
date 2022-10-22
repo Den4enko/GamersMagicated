@@ -11,7 +11,7 @@
 	logintimeout = 20000
 	#Set the ingame disconnect timeout for disconnecting players. Default = 60sec
 	#Range: 15 ~ 400
-	disconnectTimeout = 400
+	disconnectTimeout = 120
 	#Set the amount of minutes for which network packet history data is saved. Default = 5 minutes
 	#Range: 1 ~ 400
 	packetHistoryMinutes = 2
