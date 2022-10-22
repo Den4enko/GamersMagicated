@@ -30,7 +30,19 @@ hash = "cad827910f91929dc962730c9141a935caad6c6e24f1287106517a69d2a12915"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "91ff9e29c262e4287a59f52ff2eb6df74e3b303fafe9fdb860c12b44d201cbe9"
+hash = "25d332fad4ec93ac3899cb26b2f03148a376e37632ad9db04b95d919a561becd"
+
+[[files]]
+file = "config/drippyloadingscreen/config.cfg"
+hash = "4a8e1f8287e0804bf5bd6490735c3668c46d0063546af4bdafaf280d32754fbb"
+
+[[files]]
+file = "config/drippyloadingscreen/customization/loading.dllayout"
+hash = "9ce312da4d01456fdde6375ed49e97b0e0e3ddc71352a199707093d0d6706d3f"
+
+[[files]]
+file = "config/dynamic_lights_reforged.toml"
+hash = "f6147b74ba0d4f0da7154703623a690f90afceb39bea3217f76e45e7ed08eed4"
 
 [[files]]
 file = "config/enigmaticlegacy-client.omniconf"
@@ -126,12 +138,12 @@ file = "config/vampirism-common.toml"
 hash = "e95233f172ea58f4262d08472073a97683d5489e38e52b3cde7ac7318db7af5c"
 
 [[files]]
-file = "defaultconfigs/dynamic_lights_reforged.toml"
-hash = "f6147b74ba0d4f0da7154703623a690f90afceb39bea3217f76e45e7ed08eed4"
-
-[[files]]
 file = "defaultconfigs/fpsreducer/fpsreducer-client.toml"
 hash = "43e5c00005192fdd5f778e8419e8a39c5fb2b27f929eeabc47872a317278e0b4"
+
+[[files]]
+file = "defaultconfigs/xaerominimap.txt"
+hash = "90741f72845b38d63b542fefcdc4e67fd3c068e511cb53dd22db3975a7fc7f9c"
 
 [[files]]
 file = "icon.ico"
@@ -164,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a4b435f93d0a70d1d71359024fbf3d4eff8ec653f6f4e90acdfe9c6dce656634"
+hash = "d6f61a6e2ab8946261c17a593e178a32d880b933b46d680096916e9f163493d0"
 metafile = true
 
 [[files]]
@@ -185,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
+metafile = true
+
+[[files]]
+file = "mods/auudio-forge.pw.toml"
+hash = "f703ea60d5f00a774fc200c3a81fd90e32217d8300b135ef922522365fb76b62"
 metafile = true
 
 [[files]]
@@ -305,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "8724c9afd1e767f24c7755a57664399d37444ddf9a97a135f0b1e6c203444d7a"
+metafile = true
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "3de4ce389d6a02cf9484d7b3af6f791a949fb8096b3c4a663c588e36f588e66a"
 metafile = true
 
 [[files]]
