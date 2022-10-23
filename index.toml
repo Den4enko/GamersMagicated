@@ -54,7 +54,7 @@ hash = "740c5a82150ace7a1048ffe61c6273aea366847779bd967b4429111c66c9068f"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "6520c64c686c68be24a9907b6f58f87404865fee84c37a1cbb2023e530d8a9e9"
+hash = "453c8c046ffc6c844b2cdec8009c9e2679ec7a61af65dc68b245d7685ac3b8ba"
 
 [[files]]
 file = "config/fancymenu/custom_locals/pack/en_us.local"
@@ -66,11 +66,15 @@ hash = "2f661df939753b79113354b0decb349ef252460ec618eac367c088070bd8556f"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
+hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
 
 [[files]]
 file = "config/fancymenu/customization/Menu.txt"
 hash = "4a4e5301175eb18a5d5467d29e310c9454fafd108f48b673ea8ec2ef6d3c9f87"
+
+[[files]]
+file = "config/fancymenu/customization/menu2.txt"
+hash = "e845f704340a6c4d6f458fd34962f18e7cb78272dcac83f324e5ce8bc7363725"
 
 [[files]]
 file = "config/fancymenu/logo.png"
