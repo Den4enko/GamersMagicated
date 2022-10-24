@@ -90,7 +90,7 @@ hash = "48d4ee40741492c3da0d2d39e7cb7b7253401b40659443a96888c63535d10f19"
 
 [[files]]
 file = "config/fancymenu/pack_version.txt"
-hash = "d72c6e9cf20da8c31ac4f040ef135702d47c889b5a520bd14a54e911d13607c4"
+hash = "d33a4e4177ab68c0b597737724cf77a2d1abf3bd04fca40bc82da7e5509b26c2"
 
 [[files]]
 file = "config/forge-client.toml"
@@ -254,18 +254,8 @@ hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
 
 [[files]]
-file = "mods/camera-overhaul-forge.pw.toml"
-hash = "124e0ec92464ec720ffee114bac1b5947e6948b80b3737ef192515fc18ac2ff9"
-metafile = true
-
-[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "1e09653f0241c715d9da6ebb677e09b7943385a58f31af10b77e6c61e5e3cf25"
-metafile = true
-
-[[files]]
-file = "mods/chunkpregenerator.pw.toml"
-hash = "7893880e2c4731964b9f2535fd817046610764633464fa12869c87228a5ebbca"
 metafile = true
 
 [[files]]
@@ -326,16 +316,6 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "8724c9afd1e767f24c7755a57664399d37444ddf9a97a135f0b1e6c203444d7a"
-metafile = true
-
-[[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "3de4ce389d6a02cf9484d7b3af6f791a949fb8096b3c4a663c588e36f588e66a"
-metafile = true
-
-[[files]]
-file = "mods/dynamiclights-reforged.pw.toml"
-hash = "b9a21042c55e75256e733b18b41223111e27b5af4bdb45f2570f1b7be3c9b2d3"
 metafile = true
 
 [[files]]
@@ -409,11 +389,6 @@ hash = "52c76dca73ede428d7d515279a5d22847312a8d3abc055494aec60e1e56a712f"
 metafile = true
 
 [[files]]
-file = "mods/itemphysic-lite.pw.toml"
-hash = "a008aad5852aebcb1a1c1cf26ed4045010947080a4f879df4a2b3b1c8a33a400"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons.pw.toml"
 hash = "354d9fec7677e17d7ef5ada3167601a83b5a4e1d57314728c87134c8769a1d9a"
 metafile = true
@@ -474,11 +449,6 @@ hash = "cbdd3f9a91ab196d9fc6a2b50046405efb5bbb2587befc3c05272db10f0ce6a0"
 metafile = true
 
 [[files]]
-file = "mods/mod-name-tooltip.pw.toml"
-hash = "1398754e34ea789a233b03914c6ea0d589e77fadbe76ee6ac4bcf60a55b46308"
-metafile = true
-
-[[files]]
 file = "mods/mrcrayfish-furniture-mod.pw.toml"
 hash = "916c4cb1f3e1a95e6c52cdcac101fdc54ce5e4d1cb568493de2b6bef26a2a8ad"
 metafile = true
@@ -491,16 +461,6 @@ metafile = true
 [[files]]
 file = "mods/mythicbotany.pw.toml"
 hash = "33c7b787362601b4cefe1fbbe0790fc2166c4dbdd264b98330fd88c2ee978546"
-metafile = true
-
-[[files]]
-file = "mods/name-pain.pw.toml"
-hash = "63b6fdd64cae2366e75e9ce4c08d09743453c2e367b355c80ca4eea175a36e4c"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "805dded546acbf94889d96bceacb5496f7e84054dfd7a00b1970968522287ad1"
 metafile = true
 
 [[files]]
@@ -636,11 +596,6 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "34ea4985b3c7035cf0b7444a9d019582c83526782c02e1f448e1b837b656d046"
-metafile = true
-
-[[files]]
-file = "mods/tips.pw.toml"
-hash = "43a493a74e2351390eaafe9f5cf374fa2aa20b9dafc68535309f6ab3191dd9dd"
 metafile = true
 
 [[files]]
