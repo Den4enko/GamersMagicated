@@ -30,7 +30,7 @@ hash = "cad827910f91929dc962730c9141a935caad6c6e24f1287106517a69d2a12915"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "25d332fad4ec93ac3899cb26b2f03148a376e37632ad9db04b95d919a561becd"
+hash = "197ecd7c51d022dafaa5f132ef8ec83f00c7207633686b217775965608259437"
 
 [[files]]
 file = "config/drippyloadingscreen/config.cfg"
