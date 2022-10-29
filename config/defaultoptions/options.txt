@@ -9,3 +9,4 @@ joinedFirstServer:true
 maxFps:260
 simulationDistance:6
 snooperEnabled:false
+resourcePacks:["file/Default-Dark-Mode-1.18-v1.3.4.zip"]
