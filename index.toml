@@ -10,7 +10,7 @@ hash = "96fba58076ce3ff6f8dbbe8b43b70bcdf73c3d6a1fdb78074bd9437cd7c065dd"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "a652e67c1771d16df80b5ecafe72178b5f762a0827d287b1501c208da6a97c0f"
+hash = "428bdf13d57826175978134eaad2e3b7e9b9c33d2627d2d57a7c30c870f23174"
 
 [[files]]
 file = "config/blue_skies-client.toml"
